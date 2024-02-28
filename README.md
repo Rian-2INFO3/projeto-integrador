@@ -31,6 +31,21 @@ Geração de Relatórios Gerenciais: Desenvolvimento de recursos de geração de
 
 Esta proposta visa resolver os problemas de gestão enfrentados pela locadora, melhorar a eficiência operacional e proporcionar uma experiência aprimorada tanto para os clientes quanto para os funcionários. Além disso, a integração com as planilhas existentes e a simplicidade de implementação garantem uma transição suave para o novo sistema, sem a necessidade de investimentos adicionais em equipamentos ou software complexo.
 
+<h1 align="center">REGRAS DE NEGÓCIO</h1>
+
+- **RN01:** Para alugar  qualquer carro na locadora o usuário deverá estar registrado. 
+- **RN02:** O atendente deverá realizar o cadastro de usuário. 
+- **RN03:** Os carros no acervo serão cadastrados pela locadora .
+- **RN04:** Cada usuário poderá alugar por diaria ou mensal .
+- **RN05:** Cada carro  poderá ficar por mensal o diaria  depende oq usuário escolher .
 
 
+
+- **RN06:** Usuários com deposito em  em atraso não poderão fazer novos pedidos para alugar . 
+- **RN07:** alocação  de carros  em atraso na devolução não poderão ser renovados.
+- **RN08:** O atendente fará renovação dos carros  alugados  para o mesmo período do loção anterior. 
+- **RN09:** O atendente irá verificar se o carro  está disponível no sistema. 
+- **RN10:** O atendente fará reserva dos carros  solicitados que não estão alugados  no momento.
+- **RN11:** O atendente fará registro de indicações de carros  que não constam no acervo, para serem adquiridos. 
+- **RN12:** a atendente  fará o relatório dos veiculos  mais alugados , os usuários com carros  em atraso de entrega, os usuários que fizeram renovações para alugar , as reservas realizada e carros  para serem adicionados ao acervo.
 

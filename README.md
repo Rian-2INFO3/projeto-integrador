@@ -81,7 +81,6 @@ RF008: Multa : O sistema deve permitir verificar se há pendências para a valid
 
 ## SAÍDA 
 
-
 RF009: Relatório de Empréstimo: O sistema deve emitir relatórios de Locação de veiculos  e quantidade alugada . Dados Necessários: data inicial e data final. Usuários: Administrador/Atendente
 
 RF010: Relatório de  atrasados: O sistema deve permitir emitir os relatórios de empréstimos de carros  atrasados e quantidade alugada, Dados Necessários: data inicial, data final Usuários: Administrador/Atendente

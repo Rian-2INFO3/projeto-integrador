@@ -1,6 +1,8 @@
 # PROJETO INTEGRADOR: GERENCIAMENTO DE UMA LOCADORA DE VEICULOS
 
-ALUNOS: 
+PROFESSOR MARCO ANDRÉ MENDES 
+
+  EQUIPE/ALUNOS: 
 - RIAN SCHMETCKA
 - MATHEUS RAFAEL
 - DAVI SILVERA DA CUNHA 
@@ -38,14 +40,14 @@ Esta proposta visa resolver os problemas de gestão enfrentados pela locadora, m
 - **RN03:** Os carros no acervo serão cadastrados pela locadora .
 - **RN04:** Cada usuário poderá alugar por diaria ou mensal .
 - **RN05:** Cada carro  poderá ficar por mensal o diaria  depende oq usuário escolher .
-
-
-
 - **RN06:** Usuários com deposito em  em atraso não poderão fazer novos pedidos para alugar . 
-- **RN07:** alocação  de carros  em atraso na devolução não poderão ser renovados.
-- **RN08:** O atendente fará renovação dos carros  alugados  para o mesmo período do loção anterior. 
-- **RN09:** O atendente irá verificar se o carro  está disponível no sistema. 
-- **RN10:** O atendente fará reserva dos carros  solicitados que não estão alugados  no momento.
-- **RN11:** O atendente fará registro de indicações de carros  que não constam no acervo, para serem adquiridos. 
-- **RN12:** a atendente  fará o relatório dos veiculos  mais alugados , os usuários com carros  em atraso de entrega, os usuários que fizeram renovações para alugar , as reservas realizada e carros  para serem adicionados ao acervo.
+- **RN07:** cada  Usuário  que quiser fazer uma RENOVAÇÃO de um veiculo Deverá ser consultado para ver se não há pendencia.
+- **RN08:** alocação  de carros  em atraso na devolução não poderão ser renovados.
+- **RN09:* Cada usario que atrazar a parcela ou atrazar  o dia da entrega sera multado/punido+.
+- **RN10:** O atendente fará renovação dos carros  alugados  para o mesmo período do loção anterior. 
+- **RN11:** O atendente irá verificar se o carro  está disponível no sistema. 
+- **RN12:** O atendente fará reserva dos carros  solicitados que não estão alugados  no momento.
+- **RN13:** O atendente fará registro de indicações de carros  que não constam no acervo, para serem adquiridos. 
+- **RN14:** a atendente  fará o relatório dos veiculos  mais alugados , os usuários com carros  em atraso de entrega, os usuários que fizeram renovações para alugar , as reservas realizada e carros  para serem adicionados ao acervo.
+- **RN15:**  Quando estravio do veiculo a locadora devera ser acinada junto ao propretario que alugou  o veiculo.
 

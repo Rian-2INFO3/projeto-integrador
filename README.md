@@ -8,6 +8,7 @@ PROFESSOR MARCO ANDRÉ MENDES
 - DAVI SILVERA DA CUNHA 
 
 # <h1 align="center">SITUAÇÃO PROBLEMA</h1>
+
 A locadora recebe atualmente veiculos de Belo Horizonte onde esse fornecedor é esssencial para seu funcionamento, conta alguns com funcionários, incluindo o gerente, 4  atendentes e 2 recepcionistas. durante todo o perido são alugados varios carros para as pessoas somente maiores de 18 anos Contudo, há um grande problema de gestão
 de locar esses veiculos bom  por não possuir um sistema capaz de guardar essas informações e gerenciar toda movimentação de alugar os veiculos  e  sua devolção no sistema .
 O gerente por sua vez mantém o controle dos veiculos alugados e Disponíveis, na planilha de alocação, poderia incluir em um futuro software fórmulas que calculam automaticamente o número de carros alocados e para alugação verificando   o número de veiculos  disponíveis no acervo, com base nos registros disponiveis. 
@@ -50,4 +51,42 @@ Esta proposta visa resolver os problemas de gestão enfrentados pela locadora, m
 - **RN13:** O atendente fará registro de indicações de carros  que não constam no acervo, para serem adquiridos. 
 - **RN14:** a atendente  fará o relatório dos veiculos  mais alugados , os usuários com carros  em atraso de entrega, os usuários que fizeram renovações para alugar , as reservas realizada e carros  para serem adicionados ao acervo.
 - **RN15:**  Quando estravio do veiculo a locadora devera ser acinada junto ao propretario que alugou  o veiculo.
+
+- # <h1 align="center">REQUISITOS FUNCIONAIS</h1>
+
+## ENTRADA
+
+- **RF001: Registro de Usuário:** O sistema deve permitir o cadastro de usuários no sistema.
+    - **Dados Necessários:** Nome, email, telefone, CPF, Endereço 
+    - **Usuários:** Atendente.
+- **RF002: Cadastro de funcionário:** O sistema deve permitir o cadastro de funcionários no sistema 
+    - **Dados Necessários:** Nome, email, telefone, CPF, e senha.  
+    - **Usuários:** Administrador
+- **RF003: Cadastro de Carros :** O sistema deve permitir verificar se há pendências para a validação de alugar ou devoluções de veiculos. 
+    - **Dados Necessários:** Nome, email, telefone, cpf, Endereço 
+    - **Usuários:** Atendente 
+
+## PROCESSAMENTO 
+
+RF004 - Autenticação de usuário: tem como propósito autenticar o acesso ao sistema, verificando se o usuário pode acessá-lo e, caso possa, o direcionando para a página principal de seu perfil de acesso.
+Dados necessários: login, senha, nível de permissão.
+Usuários: todos os níveis de usuário.
+
+RF005 - Login: O sistema deve permitir a autenticação de dados Dados Necessários: Email, Senha, Usuários: Administrador/Atendente/
+
+RF006:Empréstimo: O sistema deve permitir verificar se há pendências para a validação de Locação ou devoluções, Dados Necessários: Nome, email, telefone, cpf, Endereço Usuários: Administrador/Atendente 
+RF007:Devolução : O sistema deve permitir verificar se há pendências para a validação de Locação ou devoluções, Dados Necessários: Nome, email, telefone, cpf, Endereço Usuários: Administrador/Atendente
+
+RF008: Multa : O sistema deve permitir verificar se há pendências para a validação de Locação ou devoluções, Dados Necessários: Nome, email, telefone, cpf,Endereço Usuários: Administrador/Atendente
+
+## SAÍDA 
+
+
+RF009: Relatório de Empréstimo: O sistema deve emitir relatórios de Locação de veiculos  e quantidade alugada . Dados Necessários: data inicial e data final. Usuários: Administrador/Atendente
+
+RF010: Relatório de  atrasados: O sistema deve permitir emitir os relatórios de empréstimos de carros  atrasados e quantidade alugada, Dados Necessários: data inicial, data final Usuários: Administrador/Atendente
+
+RF011: Relatório de Clientes : O sistema deve permitir emitir os relatórios de Clientes fazendo a verificação de pendências para a validação de locaçao ou devoluções, e Muitas Dados Necessários: CPF Usuários: Administrador/Atendente
+
+
 

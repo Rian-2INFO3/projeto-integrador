@@ -46,7 +46,7 @@ Esta proposta visa resolver os problemas de gestão enfrentados pela locadora, m
 - **RN06:** Usuários com deposito em em atraso não poderão fazer novos pedidos para alugar .
 - **RN07:** cada Usuário que quiser fazer uma RENOVAÇÃO de um veiculo Deverá ser consultado para ver se não há pendencia.
 - **RN08:** alocação de carros em atraso na devolução não poderão ser renovados.
-- \*_RN09:_ Cada usario que atrazar a parcela ou atrazar o dia da entrega sera multado/punido+.
+- **RN09:** Cada usario que atrazar a parcela ou atrazar o dia da entrega sera multado/punido+.
 - **RN10:** O atendente fará renovação dos carros alugados para o mesmo período do loção anterior.
 - **RN11:** O atendente irá verificar se o carro está disponível no sistema.
 - **RN12:** O atendente fará reserva dos carros solicitados que não estão alugados no momento.

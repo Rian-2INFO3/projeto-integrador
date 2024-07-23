@@ -65,7 +65,6 @@ Registro e Acompanhamento de Danos aos Veículos: Incorporação de funcionalida
   
 
 Geração de Relatórios Gerenciais: Desenvolvimento de recursos de geração de relatórios no sistema, incluindo relatórios de veículos em aberto, veículos mais alugados e análises de desempenho da frota. Esses relatórios fornecerão insights valiosos para a tomada de decisões estratégicas sobre aquisição e gestão da frota. 
-
   
 
 Esta proposta visa resolver os problemas de gestão enfrentados pela locadora, melhorar a eficiência operacional e proporcionar uma experiência aprimorada tanto para os clientes quanto para os funcionários. Além disso, a integração com as planilhas existentes e a simplicidade de implementação garantem uma transição suave para o novo sistema, sem a necessidade de investimentos adicionais em equipamentos ou software complexo. 

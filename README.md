@@ -40,7 +40,7 @@ Por fim, a locadora poderia criar relatórios simples em uma planilha, como um r
 
   
 
-Proposta de Solução: 
+<h1> Proposta de Solução:</h1>  
 
   
 

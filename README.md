@@ -28,7 +28,7 @@ EQUIPE/ALUNOS:
 
 O gerente por sua vez mantém o controle dos veículos alugados e Disponíveis, na planilha de alocação, poderia incluir em um futuro software fórmulas que calculam automaticamente o número de carros alocados e para alugação verificando o número de veículos disponíveis no acervo, com base nos registros disponíveis. 
 
-veículo danificado durante o aluguel: Um cliente devolve um veículo com danos significativos que não estavam presentes antes do aluguel. Como lidar com a situação e determinar a responsabilidade 
+Veículo danificado durante o aluguel: Um cliente devolve um veículo com danos significativos que não estavam presentes antes do aluguel. Como lidar com a situação e determinar a responsabilidade 
 
   
 

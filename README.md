@@ -48,7 +48,7 @@ A fim de resolver os problemas de gestão enfrentados pela locadora de veículos
 
   
 
-<h4> Sistema de Gerenciamento de Locação e Devolução de Veículos:</h4> Desenvolvimento de um software personalizado que permitirá o registro de todos os veículos disponíveis para locação, detalhes dos clientes, datas de locação e devolução, além de registros de danos e condições dos veículos no momento da devolução. 
+Sistema de Gerenciamento de Locação e Devolução de Veículos:Desenvolvimento de um software personalizado que permitirá o registro de todos os veículos disponíveis para locação, detalhes dos clientes, datas de locação e devolução, além de registros de danos e condições dos veículos no momento da devolução. 
 
   
 

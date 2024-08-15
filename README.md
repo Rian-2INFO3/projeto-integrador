@@ -2,7 +2,7 @@
 
   
 
-Professor: [Marco André Mendes](https://github.com/marcoandre)
+Professor: [Marco André Mendes](https://github.com/marrcandre)
 
   
 

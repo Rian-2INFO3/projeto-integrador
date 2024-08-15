@@ -11,7 +11,7 @@ EQUIPE/ALUNOS:
   
   [RIAN SCHMETCKA](github.com/Rian-2INFO3)
 
-- MATHEUS RAFAEL 
+ [MATHEUS RAFAEL](https://github.com/MatheusRRS)
 
 - DAVI SILVEIRA DA CUNHA 
 

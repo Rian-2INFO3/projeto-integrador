@@ -2,14 +2,14 @@
 
   
 
-Professor: [Marco André Mendes](github.com/marcoandre)
+Professor: [Marco André Mendes](https://github.com/marcoandre)
 
   
 
 EQUIPE/ALUNOS: 
 
   
-  [RIAN SCHMETCKA](github.com/Rian-2INFO3)
+  [RIAN SCHMETCKA](https://github.com/Rian-2INFO3)
 
  [MATHEUS RAFAEL](https://github.com/MatheusRRS)
 

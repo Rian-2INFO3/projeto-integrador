@@ -2,7 +2,7 @@
 
   
 
-PROFESSOR MARCO ANDRÉ MENDES 
+Professor: [Marco André Mendes](github.com/marcoandre)
 
   
 
@@ -10,7 +10,7 @@ EQUIPE/ALUNOS:
 
   
 
-- RIAN SCHMETCKA 
+- RIAN SCHMETCKA  [RIAN SCHMETCKA](github.com/rian-2info3)
 
 - MATHEUS RAFAEL 
 

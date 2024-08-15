@@ -9,8 +9,7 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 EQUIPE/ALUNOS: 
 
   
-
-- RIAN SCHMETCKA  [RIAN SCHMETCKA](github.com/rian-2info3)
+  [RIAN SCHMETCKA](github.com/Rian-2INFO3)
 
 - MATHEUS RAFAEL 
 
